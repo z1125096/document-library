@@ -2,7 +2,7 @@ LeetCode - 简单模式
 ===
 
 > Create by **jsliang** on **2019-05-20 18:59:51**  
-> Recently revised in **2019-12-12 10:44:29**
+> Recently revised in **2019-12-16 09:09:14**
 
 LeetCode 简单难度攻略
 
@@ -170,6 +170,10 @@ LeetCode 简单难度攻略
 | 51 | 671 - 二叉树中第二小的节点（second-minimum-node-in-a-binary-tree） | [#671 解题](./671-二叉树中第二小的节点（second-minimum-node-in-a-binary-tree）.md) |
 | 52 | 674 - 最长连续递增数列（longest-continuous-increasing-subsequence） | [#674 解题](./674-最长连续递增数列（longest-continuous-increasing-subsequence）.md) |
 | 53 | 680 - 验证回文字符串II（valid-palindrome-ii） | [#680 解题](./680-验证回文字符串II（valid-palindrome-ii）.md) |
+| 54 | 682 - 棒球比赛（baseball-game） | [#682 解题](./682-棒球比赛（baseball-game）.md) |
+| 55 | 686 - 重复叠加字符串匹配（repeated-string-match） | [#686 解题](./686-重复叠加字符串匹配（repeated-string-match）.md) |
+| 56 | 687 - 最长同值路径（longest-univalue-path） | [#687 解题](./687-最长同值路径（longest-univalue-path）.md) |
+| 57 | 693 - 交替位二进制数（binary-number-with-alternating-bits） | [#693 解题](./693-交替位二进制数（binary-number-with-alternating-bits）.md) |
 
 ---
 
