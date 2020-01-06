@@ -2,7 +2,7 @@ LeetCode - 简单模式
 ===
 
 > Create by **jsliang** on **2019-05-20 18:59:51**  
-> Recently revised in **2019-12-16 09:09:14**
+> Recently revised in **2020-01-06 09:36:47**
 
 LeetCode 简单难度攻略
 
@@ -174,6 +174,31 @@ LeetCode 简单难度攻略
 | 55 | 686 - 重复叠加字符串匹配（repeated-string-match） | [#686 解题](./686-重复叠加字符串匹配（repeated-string-match）.md) |
 | 56 | 687 - 最长同值路径（longest-univalue-path） | [#687 解题](./687-最长同值路径（longest-univalue-path）.md) |
 | 57 | 693 - 交替位二进制数（binary-number-with-alternating-bits） | [#693 解题](./693-交替位二进制数（binary-number-with-alternating-bits）.md) |
+| 58 | 696 - 计数二进制子串（count-binary-substrings） | [#696 解题](./696-计数二进制子串（count-binary-substrings）.md) |
+| 59 | 697 - 数组的度（degree-of-an-array） | [#697 解题](./697-数组的度（degree-of-an-array）.md) |
+| 60 | 700 - 二叉搜索树的搜索（search-in-a-binary-search-tree） | [#700 解题](./700-二叉搜索树的搜索（search-in-a-binary-search-tree）.md) |
+| 61 | 703 - 数据流中的第K大元素（kth-largest-element-in-a-stream） | [#703 解题](./703-数据流中的第K大元素（kth-largest-element-in-a-stream）.md) |
+| 62 | 704 - 二分查找（binary-search） | [#704 解题](./704-二分查找（binary-search）.md) |
+| 63 | 709 - 转换成小写字母（to-lower-case） | [#709 解题](./709-转换成小写字母（to-lower-case）.md) |
+| 64 | 717 - 1比特和2比特字符（1-bit-and-2-bit-characters） | [#717 解题](./717-1比特和2比特字符（1-bit-and-2-bit-characters）.md) |
+| 65 | 720 - 词典里最长的单词（longest-word-in-dictionary） | [#720 解题](./720-词典里最长的单词（longest-word-in-dictionary）.md) |
+| 66 | 724 - 寻找数组的中心索引（find-pivot-index） | [#724 解题](./724-寻找数组的中心索引（find-pivot-index）.md) |
+| 67 | 728 - 自除数（self-dividing-numbers） | [#728 解题](./728-自除数（self-dividing-numbers）.md) |
+| 68 | 733 - 图像渲染（flood-fill） | [#733 解题](./733-图像渲染（flood-fill）.md) |
+| 69 | 744 - 寻找比目标字母大的最小字母（find-smallest-letter-greater-than-target） | [#744 解题](./744-寻找比目标字母大的最小字母（find-smallest-letter-greater-than-target）.md) |
+| 70 | 746 - 使用最小花费爬楼梯（min-cost-climbing-stairs） | [#746 解题](./746-使用最小花费爬楼梯（min-cost-climbing-stairs）.md) |
+| 71 | 747 - 至少是其他数字两倍的最大数（largest-number-at-least-twice-of-others） | [#747 解题](./747-至少是其他数字两倍的最大数（largest-number-at-least-twice-of-others）.md) |
+| 72 | 762 - 二进制表示中质数个计算置位（prime-number-of-set-bits-in-binary-representation） | [#762 解题](./762-二进制表示中质数个计算置位（prime-number-of-set-bits-in-binary-representation）.md) |
+| 73 | 766 - 托普利兹矩阵（toeplitz-matrix） | [#766 解题](./766-托普利兹矩阵（toeplitz-matrix）.md) |
+| 74 | 774 - 宝石与石头（jewels-and-stones） | [#774 解题](./774-宝石与石头（jewels-and-stones）.md) |
+| 75 | 783 - 二叉搜索树节点最小距离（minimum-distance-between-bst-nodes） | [#783 解题](./783-二叉搜索树节点最小距离（minimum-distance-between-bst-nodes）.md) |
+| 76 | 【interesting】784 - 字母大小写全排列（letter-case-permutation） | [#784 解题](./784-字母大小写全排列（letter-case-permutation）.md) |
+| 77 | 788 - 旋转数字（rotated-digits） | [#788 解题](./788-旋转数字（rotated-digits）.md) |
+| 78 | 796 - 旋转字符串（rotate-string） | [#796 解题](./796-旋转字符串（rotate-string）.md) |
+| 79 | 804 - 唯一摩尔斯密码词（unique-morse-code-words） | [#804 解题](./804-唯一摩尔斯密码词（unique-morse-code-words）.md) |
+| 80 | 806 - 写字符串需要的行数（number-of-lines-to-write-string） | [#806 解题](./806-写字符串需要的行数（number-of-lines-to-write-string）.md) |
+| 81 | 811 - 子域名访问计数（subdomain-visit-count） | [#811 解题](./811-子域名访问计数（subdomain-visit-count）.md) |
+| 82 | 812 - 最大三角形面积（largest-triangle-area） | [#812 解题](./812-最大三角形面积（largest-triangle-area）.md) |
 
 ---
 
